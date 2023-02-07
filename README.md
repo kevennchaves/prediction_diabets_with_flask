@@ -1,4 +1,4 @@
-# prediction_diabets_with_flask
+# Prediction Diabets using Flask framework
 Dataset diabets.csv, analysis, trainning, test and deploy with flask in python
 
 - 1º Step: To Check if our dataset is not missing datas;
